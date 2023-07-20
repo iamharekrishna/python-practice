@@ -1,4 +1,2 @@
-# print ("Hello world")
-# x="20"
-# print("age is " + x)
-# print(type(x))
+import autograder_ex4_1 as a
+a.main()

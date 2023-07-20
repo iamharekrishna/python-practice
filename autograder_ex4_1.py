@@ -29,6 +29,6 @@ def main():
         print(f"Gross pay: ${total_pay:.2f}")
     except ValueError:
         print("Invalid input. Please enter numeric values for hours and rate per hour.")
-
+# main()
 if __name__ == "__main__":
     main()
