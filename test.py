@@ -1,2 +1,13 @@
-import autograder_ex4_1 as a
-a.main()
+# def func(x) :
+#     print(x)
+ 
+# func(10)
+# func(20)
+
+
+def stuff():
+    print('Hello')
+    return
+    print('World')
+ 
+stuff()

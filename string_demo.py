@@ -15,6 +15,4 @@ def start():
     print(str(count_char))
 
 if __name__ == "__main__":
-    a=dir('Rasmikangt DAs')
-    print(a)
-    # start()
+    start()
